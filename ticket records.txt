@@ -1,0 +1,21 @@
+User: joseph
+Minions 10:00 Hall B
+8
+User: joseph
+Minions 12:00 Hall C
+8
+User: joseph
+Angry Bird 08:00 Hall B
+8
+User: ree
+Harry Potter 22:00 Hall C
+8
+User: joseph
+Megamind 15:00 Hall C
+8
+User: joseph
+Harry Potter 18:00 Hall B
+8
+User: joseph
+Replicas 15:00 Hall D
+8

@@ -1,0 +1,42 @@
+Minions
+08:00 Hall A
+
+Angry Bird
+08:00 Hall B
+
+Harry Potter
+10:00 Hall C
+
+Angry Bird
+10:00 Hall C
+
+Minions
+15:00 Hall B
+
+Replicas
+15:00 Hall D
+
+Megamind
+15:00 Hall C
+
+Minions
+17:00 Hall C
+
+Megamind
+17:00 Hall C
+
+Harry Potter
+18:00 Hall B
+
+Megamind
+20:00 Hall A
+
+Harry Potter
+22:00 Hall C
+
+Angry Bird
+23:00 Hall A
+
+
+ 
+
